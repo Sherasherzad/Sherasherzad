@@ -1905,7 +1905,7 @@ jano100.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-//////////////// tokn lera da bne
+//////////////// 920704190311960586
 
 jano.login("");
 jano2.login("");
@@ -2006,4 +2006,4 @@ jano96.login("");
 jano97.login("");
 jano98.login("");
 jano99.login("");
-jano100.login("");
+jano100.login("920704190311960586");
